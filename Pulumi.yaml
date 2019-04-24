@@ -1,0 +1,3 @@
+name: aws-js-apigateway-gatsby
+runtime: nodejs
+description: Using API Gateway to host a Gatsby Blog
